@@ -16,25 +16,11 @@ data/
 # VSCode settings
 .vscode/
 
-# Python packaging
-*.egg-info/
-dist/
-build/
-.eggs/
-
-# Pytest cache
-.pytest_cache/
-
-# Pycharm
-.idea/
-
 # Umgebungsvariablen-Dateien
 .env
 
-.Trash/
-.trash/
-.Trash-0
-
+# Trash
+.Trash-0/
 
 
 
